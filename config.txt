@@ -1,0 +1,1 @@
+/home/bi/Linux-Daemon/dir1  /home/bi/Linux-Daemon/dir2  30
